@@ -1,2 +1,3 @@
-# projects-
-Some projects I have been having fun with.
+# smaller projects-
+- Apple music playlist analyzer 
+- hangman game
